@@ -1,0 +1,55 @@
+.status{
+    color: white;
+    border-radius: 8px;
+}
+.green
+{
+    background-color: darkseagreen;
+}
+.red {
+    background-color: red;
+}
+
+table td, th{
+    text-align: center;
+}
+.fa-arrow-up{
+    font-size: 40px ;
+    color: red;
+}
+.fa-arrow-up, .fa-arrow-down {
+    cursor: pointer;
+}
+.addUser:hover
+{
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(rgba(43, 49, 55, .1), rgba(43, 49, 55, .45)), url(https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#id
+{
+    color: red;
+}
+.error {
+    color: green;
+}
+.mess , .errs {
+    width: 300px;
+    border: 1px solid green;
+    color: green;
+    margin: 20px 13px;
+    padding: 5px;
+}
+.errs
+{
+    border: 1px solid red;
+}
+.errs .error
+{
+    color: red;
+}

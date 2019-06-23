@@ -1,0 +1,15 @@
+form
+{
+    width: 35%;
+}
+.row
+{
+    color: white;
+}
+.fa-unlock-alt
+{
+    font-size: 40px;
+}
+.fa-envelope, .fa-user-circle{
+    font-size: 30px;
+}
